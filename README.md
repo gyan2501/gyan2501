@@ -17,8 +17,12 @@
 <img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=gyan2501&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=48484852&currStreakNum=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&currStreakLabel=4F8FE2&background=1E2228&ring=4F8FE2&fire=4F8FE2"/>
 
 
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan2501&theme=tokyonight)
 
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=gyan2501&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
 
 
 
