@@ -2,8 +2,6 @@
 
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/gyan2501/Asset/blob/main/ReadmeImages/header.png"></div>
 
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=I'm+Gyan+Prakash;Full+Stack+Web+Developer;From+%3A+Gujarat%2C+India;Front-End+Lover+%3C3)](https://git.io/typing-svg)
 
 <hr>
@@ -21,9 +19,6 @@
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1jk6HQEE0Sp8_vbE42UABBoewsYijsVcS/view?usp=sharing)
 - 📚 &nbsp; I like to play cricket and football
 
-
-
-
 <img  src="https://visitor-badge.glitch.me/badge?page_id=gyan2501.visitor-badge" />
 
 
@@ -34,11 +29,10 @@
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan2501&theme=tokyonight&bg_color=1E2228&text_color=DCDCDC&border_color=353535&card_width=450px)](https://github.com/gyan2501/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan2501&theme=tokyonight)
 
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=gyan2501&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=gyan2501&layout=compact&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
 
 
 
