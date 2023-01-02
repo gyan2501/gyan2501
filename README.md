@@ -22,8 +22,7 @@
 
 <img  src="https://visitor-badge.glitch.me/badge?page_id=gyan2501.visitor-badge" />
 
-<!-- ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/gyan-prakash-815b22215/"><img align="left" src="https://github.com/gyan2501/Asset/blob/main/ReadmeImages/linkedin.png" alt="Gyan | LinkedIn" width="21px"/></a> -->
+
 
 
 
