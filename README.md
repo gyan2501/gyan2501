@@ -18,8 +18,13 @@
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/gyan-prakash-815b22215/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1jk6HQEE0Sp8_vbE42UABBoewsYijsVcS/view?usp=sharing)
 - 📚 &nbsp; I like to play cricket and football
+- 💬 &nbsp; If you have any question/feedback, please do not hesitate to reach out to me!
 
 <img  src="https://visitor-badge.glitch.me/badge?page_id=gyan2501.visitor-badge" />
+
+<!-- ### 🤝 Connect with me:
+<a href="https://www.linkedin.com/in/gyan-prakash-815b22215/"><img align="left" src="https://github.com/gyan2501/Asset/blob/main/ReadmeImages/linkedin.png" alt="Gyan | LinkedIn" width="21px"/></a> -->
+
 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gyan2501?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
