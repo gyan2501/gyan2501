@@ -11,7 +11,7 @@
 ### 🧐 About Me:
 
 - 🔭 &nbsp; I’m currently working on my web development skills at masai
-- 🤝 &nbsp; I’m looking to collaborate on .....
+<!-- - 🤝 &nbsp; I’m looking to collaborate on ..... -->
 - 🌱 &nbsp; I’m currently learning Typescript and Redux
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/gyan2501?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
