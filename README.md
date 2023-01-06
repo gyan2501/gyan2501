@@ -21,10 +21,20 @@
 - 📚 &nbsp; I like to play cricket and football
 - 💬 &nbsp; If you have any question/feedback, please do not hesitate to reach out to me!
 
+</br>
+
 <img  src="https://visitor-badge.glitch.me/badge?page_id=gyan2501.visitor-badge" />
 
+</br>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/justabhi0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="justabhi0" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhishek-gowda-b582a6260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek-gowda-b582a6260" height="30" width="40" /></a>
+<a href="https://instagram.com/abhishek.g0wda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishek.g0wda" height="30" width="40" /></a>
+</p>
 
+</br>
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gyan2501?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
 
@@ -38,7 +48,7 @@
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=gyan2501&layout=compact&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
 
-
+</br>
 
 # Technologies
 
@@ -82,7 +92,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-
+</br>
 
 
 <div align="center">
