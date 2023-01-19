@@ -1,7 +1,6 @@
 <div id="top"></div>
 
 
-
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/gyan2501/Asset/blob/main/ReadmeImages/header.png"></div>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=I'm+Gyan+Prakash;Full+Stack+Web+Developer;From+%3A+Gujarat%2C+India;Front-End+Lover+%3C3)](https://git.io/typing-svg)
