@@ -15,7 +15,7 @@
 - 🔭 &nbsp; I’m currently working on my web development skills at masai
 <!-- - 🤝 &nbsp; I’m looking to collaborate on ..... -->
 - 🌱 &nbsp; I’m currently learning Typescript and Redux
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/gyan2501?tab=repositories)
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Portfolio](https://gyan2501.github.io/)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/gyan-prakash-815b22215/)
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1jk6HQEE0Sp8_vbE42UABBoewsYijsVcS/view?usp=sharing)
