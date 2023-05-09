@@ -22,13 +22,13 @@
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1jk6HQEE0Sp8_vbE42UABBoewsYijsVcS/view?usp=sharing)
 - 📚 &nbsp; I like to play cricket and football
 - 💬 &nbsp; If you have any question/feedback, please do not hesitate to reach out to me!
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"  align="center"/> Reach me on **gyan2501998@gmail.com**
+<!-- - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"  align="center"/> Reach me on **gyan2501998@gmail.com** -->
 - 👨‍💻  Want to know more about **me/my projects** visit at <a href="https://gyan2501.github.io/"/><img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=ko-fi&logoColor=white" align="center"/></a>
 
 </br>
 
 
-<img  src="https://visitor-badge.glitch.me/badge?page_id=gyan2501.visitor-badge" />
+<!-- <img  src="https://visitor-badge.glitch.me/badge?page_id=gyan2501.visitor-badge" /> -->
 
 </br>
 
