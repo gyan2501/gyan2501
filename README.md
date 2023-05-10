@@ -44,7 +44,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan2501&theme=tokyonight&bg_color=1E2228&text_color=DCDCDC&border_color=353535&card_width=450px)](https://github.com/gyan2501/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan2501&theme=tokyonight&bg_color=1E2228&text_color=DCDCDC&border_color=353535&card_width=450px)]
 
 
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=gyan2501&layout=compact&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
