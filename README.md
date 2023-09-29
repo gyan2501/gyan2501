@@ -4,7 +4,7 @@
 
 <div align="center" ><img width="100%" alt="welcome to my profile!" src="https://github.com/gyan2501/Asset/blob/main/ReadmeImages/header.png"></div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=I'm+Gyan+Prakash;Full+Stack+Web+Developer;From+%3A+Gujarat%2C+India;Front-End+Lover+%3C3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=I'm+Gyan+Prakash;Full+Stack+Web+Developer;From+%3A+Gujarat%2C+India;+%3C3)](https://git.io/typing-svg)
 
 <hr>
 
@@ -14,7 +14,7 @@
 
 ### 🧐 About Me:
 
-- 🔭 &nbsp; I’m currently working on my web development skills at masai
+- 🔭 &nbsp; I’m currently working on my web development skills at Masai
 <!-- - 🤝 &nbsp; I’m looking to collaborate on ..... -->
 - 🌱 &nbsp; I’m currently learning full stack development  
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
@@ -33,9 +33,9 @@
 </br>
 
 <!-- <h3 align="left">Connect with me:</h3> -->
-
-
 </br>
+
+<div align="center">
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gyan2501?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
 
@@ -50,13 +50,14 @@
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=gyan2501&layout=compact&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
 
 </br>
+</br>
 
 # Technologies
 
 ### Programming & Markdown, Styling Languages
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -76,7 +77,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-### Hosting/SaaS
+### Hosting
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
@@ -92,7 +93,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-
+</div>
 </br>
 
 <div align="center">
