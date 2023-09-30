@@ -33,24 +33,11 @@
 </br>
 
 <!-- <h3 align="left">Connect with me:</h3> -->
-</br>
+
 
 <div align="center">
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gyan2501?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
 
-
-<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=gyan2501&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=48484852&currStreakNum=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&currStreakLabel=4F8FE2&background=1E2228&ring=4F8FE2&fire=4F8FE2"/>
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan2501&theme=tokyonight&bg_color=1E2228&text_color=DCDCDC&border_color=353535&card_width=450px)]
-
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=gyan2501&layout=compact&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
-
-</br>
-</br>
 
 # Technologies
 
@@ -92,6 +79,21 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</br></br></br>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gyan2501?cardType=github&theme=github-dark)](https://git.io/awesome-stats-card)
+
+
+<img width="450em" src="https://github-readme-streak-stats.herokuapp.com/?user=gyan2501&theme=tokyonight&date_format=j%20M%5B%20Y%5D&border=48484852&currStreakNum=8B949E&sideNums=8B949E&sideLabels=8B949E&dates=8B949E&currStreakLabel=4F8FE2&background=1E2228&ring=4F8FE2&fire=4F8FE2"/>
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyan2501&theme=tokyonight&bg_color=1E2228&text_color=DCDCDC&border_color=353535&card_width=450px)]
+
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=gyan2501&layout=compact&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+
+
 
 </div>
 </br>
