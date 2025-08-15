@@ -14,12 +14,12 @@
 
 ### 🧐 About Me:
 
-- 🔭 &nbsp; I’m currently working on my web development skills at Masai
+- 🔭 &nbsp; I’m full stack developer with 2 years of experience.
 <!-- - 🤝 &nbsp; I’m looking to collaborate on ..... -->
 - 🌱 &nbsp; I’m currently learning full stack development  
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/gyan-prakash-815b22215/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1jk6HQEE0Sp8_vbE42UABBoewsYijsVcS/view?usp=sharing)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1bMkxbFcKr1tlzvRh6Cv0Hr4NaaAYv_Ui/view?usp=sharing)
 - 📚 &nbsp; I like to play cricket and football
 - 💬 &nbsp; If you have any question/feedback, please do not hesitate to reach out to me!
 <!-- - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"  align="center"/> Reach me on **gyan2501998@gmail.com** -->
